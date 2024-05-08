@@ -43,7 +43,7 @@ button:hover {
 
 h1 {
     text-align: center;
-    margin-top: -50px;
+    margin-top: 10px;
     font-size: medium;
 }
 
@@ -55,8 +55,8 @@ input {
 
 .img {
     float: center;
-    height: 300px;
-    margin-left: 16px;
-    margin-top: -30px;
+    height: 150px;
+    margin-left: 50px;
+    margin-top: -50px;
     align-items: center;
 }
